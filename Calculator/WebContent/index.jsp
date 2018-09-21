@@ -10,7 +10,7 @@
 
  <form action = "Log.jsp" >
 <select name = "firstname">
-  <option >For Client</option>
+  <opt"D:/Thiyagu/new_workspace 7-10-17/ChatApp"ion >For Client</option>
   <option >For Regional Co-ordinator</option>
   <option >Main CSP</option>
   
